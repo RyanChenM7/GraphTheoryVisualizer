@@ -1,6 +1,6 @@
 # GraphTheoryVisualizer
 
-A Pygame application that can assist the learning of computer science students, by creating animations of classic graph theory algorithms. Supports DFS, BFS, Dijkstra's, and Kruskal's.
+A Pygame + Matplotlib application that can assist the learning of computer science students, by creating animations of classic graph theory algorithms. Supports DFS, BFS, Dijkstra's, and Kruskal's.
 
 There is an interactive screen in which you manually append nodes and edges to the graph. The distance of each edge on the screen in pixels will be the actual length of the edge. Next the user will set a starting node then pick one of the four algorithms to visualize. 
 
